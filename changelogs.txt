@@ -1,0 +1,2 @@
+Added more olemads to the theme
+Optimized shitty code
