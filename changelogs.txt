@@ -1,2 +1,3 @@
-fix the shitty crosspost not working (maybe)
-added... SECRET...
+Add auto changelog formatting
+Add assembly tracking
+Maybe fix seliware tracking later but im lazy
