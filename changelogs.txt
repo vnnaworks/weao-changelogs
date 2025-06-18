@@ -1,3 +1,1 @@
-Add auto changelog formatting
-Add assembly tracking
-Maybe fix seliware tracking later but im lazy
+update autumn url
