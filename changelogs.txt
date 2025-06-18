@@ -1,2 +1,3 @@
 remove shit annmouncement
 add new theme
+i forgot to change it from localhost am i retarded
