@@ -1,2 +1,3 @@
 Made ratelimit less mean.... (5 reloads and it touched you) should be more usable
 Also improved ratelimit api so you know when you will be unratelimited :cool:
+Removed api.weao.xyz calls (planning to shut ts down)
