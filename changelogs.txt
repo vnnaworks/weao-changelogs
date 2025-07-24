@@ -1,2 +1,4 @@
-change embed bg
-remove autumn announcement
+Fixed n.map isn't a function (caused from ratelimits)
+Added ratelimit overlay
+Added keysystem, hidden to API
+Removed glow from Wave/Zenith (looked bad)
