@@ -1,4 +1,1 @@
-Fixed n.map isn't a function (caused from ratelimits)
-Added ratelimit overlay
-Added keysystem, hidden to API
-Removed glow from Wave/Zenith (looked bad)
+Made ratelimit less mean.... (5 reloads and it touched you) should be more usable
