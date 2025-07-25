@@ -1,1 +1,1 @@
-Added trustpilot question on website and footer
+added exploit db cache (i forgot) thx ddos guy
