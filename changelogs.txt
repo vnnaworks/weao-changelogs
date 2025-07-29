@@ -1,1 +1,7 @@
-added exploit db cache (i forgot) thx ddos guy
+v2.5
+Semi lightmode fix
+Updated sUNC model because it was pretty barebones but its still bad
+Updated "WhatExpsAre.Online Status" to https://status.whichexpsare.online
+Made bloxproducts advertisement black in light mode (looks better)
+
+Discord isn't able to fetch the logo from WEAO for the footer image so i'll worry about that after migrating trackers
