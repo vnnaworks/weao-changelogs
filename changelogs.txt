@@ -1,2 +1,2 @@
 v2.5
-Potential status update fix? Very weird issue
+Looks like I forgot to parse the Windows: version hash and kept Windows maybe this time its fixed...
