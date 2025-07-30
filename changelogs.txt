@@ -1,7 +1,5 @@
 v2.5
-Semi lightmode fix
-Updated sUNC model because it was pretty barebones but its still bad
-Updated "WhatExpsAre.Online Status" to https://status.whichexpsare.online
-Made bloxproducts advertisement black in light mode (looks better)
-
-Discord isn't able to fetch the logo from WEAO for the footer image so i'll worry about that after migrating trackers
+ios + android roblox tracking/exploit tracking no api routes yet sorry bbay
+also brand new shit tracker v3 np
+added check in route update for ios np
+idk if theres anything else but im adding mobile shits
