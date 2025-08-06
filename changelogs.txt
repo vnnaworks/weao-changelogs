@@ -1,2 +1,2 @@
-v2.5.1
-?invalidate cmd for admins to invalidate website cache
+v2.5.1.1 (im just gonna keep adding ones lmao)
+implemented fix for reset routes so when roblox updates it will reset cache np
