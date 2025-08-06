@@ -1,2 +1,2 @@
-v2.5.1.1 (im just gonna keep adding ones lmao)
-implemented fix for reset routes so when roblox updates it will reset cache np
+v2.5.1.2 
+implemented frontend not loading without cache instantly np (basically we will just always have fetchable data which is SEXY)
