@@ -1,2 +1,2 @@
-v2.5.1.2 
-implemented frontend not loading without cache instantly np (basically we will just always have fetchable data which is SEXY)
+v2.5.1.3
+added slug for main page so you can do like weao.xyz/exploit and it only shows that one card cool ikr
