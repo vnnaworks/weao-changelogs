@@ -1,2 +1,4 @@
 v2.5.1.3
 added slug for main page so you can do like weao.xyz/exploit and it only shows that one card cool ikr
+also added query support if you dont wanna use that like weao.xyz/?exploit=swift pretty dope
+both of these auto open the card and still do the same stuff as main page :sunglasses:
