@@ -1,2 +1,2 @@
-v2.5.1.4
-fixed font weight for headers fr this time
+v2.5.1.5
+Removed trustpilot notification 
