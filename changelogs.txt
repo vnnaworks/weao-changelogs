@@ -3,3 +3,4 @@ added slug for main page so you can do like weao.xyz/exploit and it only shows t
 also added query support if you dont wanna use that like weao.xyz/?exploit=swift pretty dope
 both of these auto open the card and still do the same stuff as main page :sunglasses:
 fixed header font looking shit
+Added like sick asf dynamic embeds for slugs
