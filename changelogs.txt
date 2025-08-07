@@ -1,2 +1,2 @@
-v2.5.1.6
-Fixed some fonts getting fucked up
+v2.5.1.7
+check for page to exist, 404
