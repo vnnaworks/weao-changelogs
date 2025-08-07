@@ -1,2 +1,2 @@
-v2.5.1.7
-check for page to exist, 404
+v2.5.1.8
+implemented richys sUNC model, weao #1 as always...
