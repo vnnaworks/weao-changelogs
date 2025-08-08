@@ -1,5 +1,4 @@
-v2.5.1.9
-Don't reinitalize the iframe in the DOM for each exploit
-Added the other themes for the sUNC iframe
-Fixed cache not warming on startup, leading to a server is experiencing issues error
-Fixed imports in routes for the db to initialize correctly
+v2.5.2
+Implement richys optimization suggestions https://docs.sunc.su/About/Integration-Suite/Widget/#usage
+Implenent usedarklogo/lightlogo for dark and light mode
+Implement A Persistent SEW
