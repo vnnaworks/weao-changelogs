@@ -1,2 +1,2 @@
-v2.5.2.1
-Domain detection for sunc dom fix 
+v2.5.2.2
+clientmods true/false for client modiciation bans
