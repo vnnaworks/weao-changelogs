@@ -1,3 +1,2 @@
-v2.5.2.3
-403 fix (probably caused by strict ratelimit)
-exploits route rewrite
+v2.5.2.4
+Remove ai chatbot feature NIGA
