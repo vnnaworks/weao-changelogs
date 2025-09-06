@@ -1,3 +1,2 @@
-v2.5.2.6
-Add grands wave with some saturation for good
-Stop synapse mac spin
+v2.5.2.7
+class minification
