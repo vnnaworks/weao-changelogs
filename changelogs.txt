@@ -1,2 +1,3 @@
-v2.5.2.5
-Wave theme :XD: no goon corner
+v2.5.2.6
+Add grands wave with some saturation for good
+Stop synapse mac spin
