@@ -1,2 +1,2 @@
-v2.5.2.7
-class minification
+v2.5.2.8
+Fix discord bot "Sorry, there was an error fetching the version information. Please try again later."
