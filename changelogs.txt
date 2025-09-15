@@ -1,4 +1,2 @@
-v2.5.2.9
-Fix discord bot "Sorry, there was an error fetching the version information. Please try again later."
-Fix blank screen cors issue
-Fix rdd issue cors
+v2.6
+burp
