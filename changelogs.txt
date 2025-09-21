@@ -1,5 +1,5 @@
 v2.6.0.1
-Potential mobile lag issue fix
+- None
 
 v2.5
-Fix bot not invalidating to beta
+- Android/IOS version tracking (API ONLY)
