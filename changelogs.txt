@@ -2,5 +2,5 @@ v2.6.0.1
 - None
 
 v2.5.2.9
-- Just MAYBE fixed crossposting to discord servers for exploit updates/roblox updates
-- Changed embeds just a lil bit 
+- Experimental new roblox tracking
+- Fixes for mobile exploit tracking (semi)
