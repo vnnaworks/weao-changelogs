@@ -2,4 +2,4 @@ v2.6.0.1
 - None
 
 v2.5.2.9
-- make the routes for roblox api update :sob:
+- Add yerba to allowlist slug
