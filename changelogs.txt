@@ -1,5 +1,10 @@
 v2.6.0.1
-- None
+- Removed halloween theme
+- Fixed filters icon spacing
+- Fixed TOS and Privacy policy page
+- Added Mac exp pages
+- Made it so you can go straight to rdd via a version on weao by hitting download similar to download previous version
+
 
 v2.5.2.9
-- Add yerba to allowlist slug
+Discontinued
