@@ -1,5 +1,11 @@
-v2.6.0.2
-- Fix embed logo looking like shet
+v2.6.0.3
+- Fixed small issue related to sUNC component
+- Revised theme page
+- Added Kyoto (Synapse) theme
+- Added SirMeme theme
+- Added "Notify Me" button to each exp, sends notifications to your browser when something updates
+
+Probably other small changes I forgot :stuck_out_tongue: 
 
 
 v2.5.2.9
