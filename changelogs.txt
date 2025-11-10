@@ -1,6 +1,5 @@
-v2.6.0.3a
-Quick hotfix
-
+v2.6.0.4
+Volt, new types
 
 v2.5.2.9
 Discontinued
