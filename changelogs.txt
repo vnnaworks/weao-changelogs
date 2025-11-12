@@ -1,5 +1,5 @@
-v2.6.0.4
-Volt, new types
+v2.6.0.5
+change sunc model to round down percentages math.flooor
 
 v2.5.2.9
 Discontinued
