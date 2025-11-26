@@ -1,5 +1,5 @@
-v2.6.0.5
-change sunc model to round down percentages math.flooor
+v2.6.0.6
+added zenith announcement
 
 v2.5.2.9
 Discontinued
