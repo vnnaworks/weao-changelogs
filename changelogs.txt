@@ -1,5 +1,8 @@
 v2.6.0.6
-added zenith announcement
+Change seliware endpoint
+Update Valex slug images
+Update seliware slug images
+Rename Cryptic Mac
 
 v2.5.2.9
 Discontinued
