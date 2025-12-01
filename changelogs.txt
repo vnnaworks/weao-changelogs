@@ -1,8 +1,5 @@
-v2.6.0.6
-Change seliware endpoint
-Update Valex slug images
-Update seliware slug images
-Rename Cryptic Mac
+v2.6.0.7 (67 LOLOLOLLOLLO SDF()_OFJASIOPFKA)
+Christmas
 
 v2.5.2.9
 Discontinued
