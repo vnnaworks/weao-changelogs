@@ -1,7 +1,5 @@
-v2.6.0.8
-CVE-2025-66478 update
-webpack fix
-dbCache fix
+v2.6.0.9
+Removed zenith compensation notice 
 
 v2.5.2.9
 Discontinued
