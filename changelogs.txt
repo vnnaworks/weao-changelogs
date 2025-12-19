@@ -7,6 +7,7 @@ Improved request tracking for attacks
 Removed unused pages that people might try to use to ddos
 Turned /exploit pages into completely static pages
 WIP custom RDD will prob release on saturday
+Fixed notifications API
 
 v2.5.2.9
 Discontinued
