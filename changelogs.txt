@@ -1,5 +1,9 @@
-v2.6.0.9
-Removed zenith compensation notice 
+v2.6.1
+Patch SSR ddos vuln via 404 pages using static generation for slug routes
+Removed fallback for version endpoints (was causing false positive updates for other services during downtime)
+Spacing fix under topbar
+/exploit page fixes 
+Improved request tracking for attacks
 
 v2.5.2.9
 Discontinued
