@@ -4,6 +4,9 @@ Removed fallback for version endpoints (was causing false positive updates for o
 Spacing fix under topbar
 /exploit page fixes 
 Improved request tracking for attacks
+Removed unused pages that people might try to use to ddos
+Turned /exploit pages into completely static pages
+WIP custom RDD will prob release on saturday
 
 v2.5.2.9
 Discontinued
