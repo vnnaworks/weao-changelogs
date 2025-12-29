@@ -1,5 +1,6 @@
-v2.6.1a
-Whitelist cdn.weao.gg
+v2.6.2
+Added detectionReason to API
+Set Seliware/Potassium detectionReason (read more in DB)
 
 v2.5.2.9
 Discontinued
