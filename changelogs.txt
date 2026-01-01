@@ -1,5 +1,5 @@
-v2.6.2d
-Fix next config
+v2.6.3
+Auth rework
 
 v2.5.2.9
 Discontinued
