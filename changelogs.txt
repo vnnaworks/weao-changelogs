@@ -1,5 +1,5 @@
-v2.6.3a
-https://whatexpsare.online/api/versions/past/4
+v2.6.3b
+Make warning badge more noticeable
 
 v2.5.2.9
 Discontinued
