@@ -1,6 +1,5 @@
-v2.6.4a
-Ball 2.0 theme
-Update discord bot tiny bit
+v2.6.4b
+Fix update bug
 
 v2.5.2.9
 Discontinued
