@@ -1,5 +1,5 @@
-v2.6.3b
-Make warning badge more noticeable
+v2.6.4
+Allow free exploits to have purchaselinks
 
 v2.5.2.9
 Discontinued
