@@ -1,5 +1,6 @@
-v2.6.4
-Allow free exploits to have purchaselinks
+v2.6.4a
+Ball 2.0 theme
+Update discord bot tiny bit
 
 v2.5.2.9
 Discontinued
