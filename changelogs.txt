@@ -1,5 +1,12 @@
-v2.6.4b
-Fix update bug
+v2.6.5
+- Fixed sUNC model having weird list separators on certain screen sizes
+- Added outdated flag to our sUNC api to check for very outdated tests
+- Added outdated test badge if test is below latest sUNC version
+- Removed downgrade tutorial badge for Wave
+- Added <@1038918366800392193>'s idea to link the official sUNC page for exploits (click a exploit name while on sUNC model)
+- Added "getscriptfromthread" documentation on sUNC model, Fixed its display
+- Fixed Wave tracking (again!)
+
 
 v2.5.2.9
 Discontinued
