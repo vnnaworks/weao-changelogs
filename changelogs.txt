@@ -1,8 +1,7 @@
-v2.6.5a
+v2.6.6
 // Backend
-- Fixed issue where versions/tracker API could be overloaded causing downtime
-- Added super tiny cache on Next api as precaution
-- Fixed issue where connected ips would rarely become localhost
+- Improved Roblox version tracking for Future/Current
+- Updated Embed for Discord bot
 
 // Frontend
 No changes
@@ -10,4 +9,5 @@ No changes
 // Todo
 Change Solara image in r2
 Revamp /exploit pages
+Fix mobile roblox version tracking
 Delete WEAO
