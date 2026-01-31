@@ -1,3 +1,13 @@
 v2.6.5a
+// Backend
 - Fixed issue where versions/tracker API could be overloaded causing downtime
 - Fixed reaalll cf bypass
+- Added super tiny cache on Next api as precaution
+
+// Frontend
+No changes
+
+// Todo
+Change Solara image in r2
+Revamp /exploit pages
+Delete WEAO
