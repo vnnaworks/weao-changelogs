@@ -1,7 +1,6 @@
-v2.6.6
+v2.6.6a
 // Backend
-- Improved Roblox version tracking for Future/Current
-- Updated Embed for Discord bot
+Improved Volt tracking
 
 // Frontend
 No changes
