@@ -1,2 +1,3 @@
 v2.6.5a
 - Fixed issue where versions/tracker API could be overloaded causing downtime
+- Fixed reaalll cf bypass
