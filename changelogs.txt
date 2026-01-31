@@ -3,6 +3,7 @@ v2.6.5a
 - Fixed issue where versions/tracker API could be overloaded causing downtime
 - Fixed reaalll cf bypass
 - Added super tiny cache on Next api as precaution
+- Fixed issue where connected ips would rarely become localhost
 
 // Frontend
 No changes
