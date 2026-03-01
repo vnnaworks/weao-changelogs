@@ -1,12 +1,9 @@
-v2.6.6a
+v2.6.6b
 // Backend
-Improved Volt tracking
-
-// Frontend
 No changes
 
+// Frontend
+Update slug images/logos
+
 // Todo
-Change Solara image in r2
-Revamp /exploit pages
-Fix mobile roblox version tracking
-Delete WEAO
+
