@@ -3,7 +3,7 @@ v2.6.6b
 No changes
 
 // Frontend
-Update slug images/logos
+Update opiumware image
 
 // Todo
 
