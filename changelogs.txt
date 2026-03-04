@@ -1,9 +1,14 @@
-v2.6.6b
+v2.6.7
 // Backend
 No changes
 
 // Frontend
-Update opiumware image
+Cleaner exploit description formatting
+Wrote descriptions for: 
+Volt
+Potassium
+Volcano
 
 // Todo
+Finish writing the other exploit descriptions
 
