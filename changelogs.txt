@@ -1,9 +1,8 @@
-v2.6.8
+v2.6.9
 // Backend
-Added "raknet" to model
+Middleware fix
 
 // Frontend
-Added Raknet Library to indicators 
 
 // Todo
 Finish writing the other exploit descriptions
