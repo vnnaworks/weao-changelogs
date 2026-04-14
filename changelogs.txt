@@ -1,14 +1,9 @@
-v2.7.0
+v2.7.1
 // Backend
-Added better cache to sUNC API (7000 ms fetches really sunc)
+Added unknownDetection support to Discord bot
 
 // Frontend
-Updated Topbar
-Updated Footer
-Updated Copyright
-Updated 404 Component
-Updated Error Component
-Updated Theme Component
+No changes
 
 // Todo
 Remove herobrine
