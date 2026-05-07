@@ -1,6 +1,7 @@
-v2.7.3
-- API
-Reworked endpoint error handling
+v2.7.4
+- Frontend
+Readded downgrade button to Roblox component
+Added announcement
 
 
 
