@@ -1,6 +1,6 @@
-v2.7.4.2
+v2.7.4.3
 - Frontend
-Announcement push
+Announcement removal
 
 
 
