@@ -1,6 +1,6 @@
-v2.7.4.3
-- Frontend
-Announcement removal
-
+v2.7.5
+- Tracker
+Fixed Android version tracking
+Fixed iOS version tracking
 
 
