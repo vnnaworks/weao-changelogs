@@ -1,6 +1,5 @@
-v2.7.5
-- Tracker
-Fixed Android version tracking
-Fixed iOS version tracking
-
+v2.7.6
+- Frontend
+Update topbar rdd to redirect to .xyz
+Update downgrade/roblox downloads to redirect to .xyz
 
