@@ -1,2 +1,2 @@
 v2.7.8.1
-Allowlist real
+Allowlist real, madium
