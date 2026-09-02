@@ -1,2 +1,4 @@
-v2.7.8.4
-Vault ?yubx #LLYX 
+v2.7.9
+Fix middleware ddos bug
+Upd middleware + ratelimiting
+Update api path
