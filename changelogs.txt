@@ -1,5 +1,2 @@
-v2.7.9.1
-Light halloween theme
-Slight topbar, footer changes
-Add download previous version button to Mac
-Fix revision theme headers bg not being transparent
+v2.7.9.2
+/api/updateStatus changelogs with ANSI codes are now posted in a ```ansi block
